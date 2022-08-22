@@ -44,3 +44,10 @@ li{
 .contenedor .btn-main{
     color: rgb(14, 233, 105);
 }
+img{
+    width: 500px;
+    height: auto;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
