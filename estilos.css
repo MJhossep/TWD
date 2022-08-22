@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+
+:root{
+    font-family: 'Bree Serif', serif;
+}
+h1{
+    color: chocolate;
+}
+h2{
+    color: cornflowerblue;
+}
+ol{
+    list-style-type: lower-roman;
+    margin: 0px;
+    padding: 20px;
+}
+li{
+    color: rgb(220, 16, 115);
+}
+/*.btn-button{
+    background-color: rgb(150, 240, 240);
+    border: 0px;
+    padding: 5px 10px;
+    font-size: 12px;
+    border-radius: 14px;
+    color: rgb(110, 190, 30);    
+}*/
+.btn-button:hover{
+    cursor: pointer;
+    background-color: rgb(57, 179, 179);
+}
+.contenedor i{
+    color: rgb(30, 36, 207);
+    padding-right: 4px;
+}
+.contenedor button{
+    background-color: rgb(150, 240, 240);
+    border: none;
+    padding: 5px 10px;
+    font-size: 12px;
+    border-radius: 14px;
+    color: rgb(232, 95, 10); 
+}
+.contenedor .btn-main{
+    color: rgb(14, 233, 105);
+}
