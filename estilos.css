@@ -45,9 +45,18 @@ li{
     color: rgb(14, 233, 105);
 }
 img{
-    width: 500px;
-    height: auto;
+    width: 466px;
+    height: 310px;
     position: absolute;
     top: 0px;
     right: 0px;
 }
+.data{
+    display: none;    
+}
+/*h3{
+    color: darkgoldenrod;
+    position: absolute;
+    top: 360px;
+    left: 900px;    
+}*/
